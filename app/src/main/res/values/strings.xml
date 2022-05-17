@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise_2</string>
+    <string name="textTemplate">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu malesuada leo. Curabitur vehicula sapien velit, convallis luctus justo fermentum id. Nullam congue purus dui, non tincidunt lorem lacinia sit.</string>
+    <string name="followButton">follow</string>
+    <string name="messageButton">Message</string>
+    <string name="avatarPicture">avatar</string>
+    <string name="desc">descTo</string>
+    <string name="todoList2">TODOList2</string>
+    <string name="todo">TODO</string>
+</resources>
